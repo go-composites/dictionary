@@ -2,6 +2,8 @@
 
 # dictionary
 
+[![ci](https://github.com/go-composites/dictionary/actions/workflows/ci.yml/badge.svg)](https://github.com/go-composites/dictionary/actions/workflows/ci.yml)
+
 A key→value composite for Composition-Oriented Programming — the sibling of
 [`array`](https://github.com/go-composites/array). A `Dictionary` wraps a
 `map[interface{}]interface{}` (arbitrary comparable keys, arbitrary values)
