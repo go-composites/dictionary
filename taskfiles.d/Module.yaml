@@ -1,0 +1,21 @@
+version: "3"
+
+tasks:
+  init:
+    desc: Initialize the Go module
+    cmds:
+    - |
+
+      go mod init github.com/go-composites/dictionary
+
+  requirements:
+    desc: Add module requirements and sums
+    cmds:
+    - |
+
+      go clean -modcache
+      go get github.com/go-composites/result
+      go get github.com/go-composites/error
+      go get github.com/go-composites/boolean
+      go get github.com/go-composites/array
+      go mod tidy
