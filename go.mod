@@ -3,8 +3,8 @@ module github.com/go-composites/dictionary
 go 1.26.4
 
 require (
-	github.com/go-composites/array v0.0.0-20260831064122-5109ee981461
-	github.com/go-composites/boolean v0.0.0-20260831064055-3ccc89478134
+	github.com/go-composites/array v0.0.0-20260831114605-5aa51a1a6fe5
+	github.com/go-composites/boolean v0.0.0-20260831114728-9b8bb8bf9eb1
 	github.com/go-composites/error v0.0.0-20260830144553-70431cbaa0f4
 	github.com/go-composites/result v0.0.0-20260831064038-04f60253e9cc
 	github.com/onsi/ginkgo/v2 v2.32.1
@@ -15,7 +15,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-composites/null v0.0.0-20260830144216-7ac5fcb425b7 // indirect
-	github.com/go-composites/string v0.0.0-20260830151057-df09bfd12600 // indirect
+	github.com/go-composites/string v0.0.0-20260831064032-1eb7ee344577 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
