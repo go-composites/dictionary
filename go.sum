@@ -22,6 +22,8 @@ github.com/go-composites/boolean v0.0.0-20260831064055-3ccc89478134 h1:3n74hCjzE
 github.com/go-composites/boolean v0.0.0-20260831064055-3ccc89478134/go.mod h1:PR9135Zx2yi2HOwaUynXWJ7WGEGFi3cmSiXPfvs5AEU=
 github.com/go-composites/boolean v0.0.0-20260831114728-9b8bb8bf9eb1 h1:5BByIwpq2QvjSrT3zFD6V9Vvu4k9TeTyxFatfM3rFbg=
 github.com/go-composites/boolean v0.0.0-20260831114728-9b8bb8bf9eb1/go.mod h1:L0i4DifMXy5x2zESJIrxPAV9gs8y0BYuvkJAjz4WkCU=
+github.com/go-composites/boolean v0.0.0-20260902234451-2cfca7a98a39 h1:acmHxCU0FHHkIBTGIJFKedi+b2yNAIHLGYWUXe9zK90=
+github.com/go-composites/boolean v0.0.0-20260902234451-2cfca7a98a39/go.mod h1:Kofy18KlMxOYgdULoaxoe6SE37Ug3LAbdRjenci2+ig=
 github.com/go-composites/error v0.0.0-20260621061850-8f949885a586 h1:gA6h4DA7NSiDoqwYDMUlQ2LO/dWx3VBq41nHIMQJskI=
 github.com/go-composites/error v0.0.0-20260621061850-8f949885a586/go.mod h1:9Lf1BQDdG/DDzw+WaWctBOzk69PTLjREAiPcKfSUilU=
 github.com/go-composites/error v0.0.0-20260830075421-e9e68493eded h1:lVkmXqI0GyJ7qfCXL9RptTb9HhCIh+2dsXoQ6N2N8BE=
@@ -50,6 +52,8 @@ github.com/go-composites/string v0.0.0-20260830151057-df09bfd12600 h1:25A1WVbzdw
 github.com/go-composites/string v0.0.0-20260830151057-df09bfd12600/go.mod h1:OGQtl0zzuzGVtMCowbj0omZcVbdA3AOgkZvojaFrpsc=
 github.com/go-composites/string v0.0.0-20260831064032-1eb7ee344577 h1:SSyY6++wMJt27v6vfYuiQqVYrq6KOO37XrKFmMpRuII=
 github.com/go-composites/string v0.0.0-20260831064032-1eb7ee344577/go.mod h1:vC4mzYDlVte0DwqG8gngclhaFibNWFJBnVhF9ySJqcs=
+github.com/go-composites/string v0.0.0-20260901144844-e182bebfe24d h1:ZF/tQNN/IsECOTBheZs+Uyg+e4hehTTQreeyDBVguo0=
+github.com/go-composites/string v0.0.0-20260901144844-e182bebfe24d/go.mod h1:cgMJQKU4VSvFstp+QPq1/IcKXbjjiRNgDfzui+aivWc=
 github.com/go-logr/logr v1.4.1 h1:pKouT5E8xu9zeFC39JXRDukb6JFQPXM5p5I91188VAQ=
 github.com/go-logr/logr v1.4.1/go.mod h1:9T104GzyrTigFIr8wt5mBrctHMim0Nb2HLGrmQ40KvY=
 github.com/go-logr/logr v1.4.3 h1:CjnDlHq8ikf6E492q6eKboGOC0T8CDaOvkHCIg8idEI=
