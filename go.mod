@@ -3,17 +3,16 @@ module github.com/go-composites/dictionary
 go 1.26.4
 
 require (
-	github.com/go-composites/array v0.0.0-20260831114605-5aa51a1a6fe5
-	github.com/go-composites/boolean v0.0.0-20260902234451-2cfca7a98a39
-	github.com/go-composites/error v0.0.0-20260830144553-70431cbaa0f4
-	github.com/go-composites/result v0.0.0-20260831064038-04f60253e9cc
+	github.com/go-composites/array v0.0.0-20260903220105-82bc5f53ecdb
+	github.com/go-composites/boolean v0.0.0-20260903220144-0800a1ee1283
+	github.com/go-composites/error v0.0.0-20260903220219-cc4a1228280c
+	github.com/go-composites/result v0.0.0-20260903220254-d0ae45c59059
 	github.com/onsi/ginkgo/v2 v2.32.1
 	github.com/onsi/gomega v1.43.0
 )
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
-	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-composites/null v0.0.0-20260830144216-7ac5fcb425b7 // indirect
 	github.com/go-composites/string v0.0.0-20260901144844-e182bebfe24d // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
@@ -27,5 +26,4 @@ require (
 	golang.org/x/sys v0.46.0 // indirect
 	golang.org/x/text v0.38.0 // indirect
 	golang.org/x/tools v0.45.0 // indirect
-	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
