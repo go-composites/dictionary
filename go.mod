@@ -3,9 +3,9 @@ module github.com/go-composites/dictionary
 go 1.26.4
 
 require (
-	github.com/go-composites/array v0.0.0-20260905061411-f0f5dad468ca
-	github.com/go-composites/boolean v0.0.0-20260907185821-1231cc797e98
-	github.com/go-composites/error v0.0.0-20260903220219-cc4a1228280c
+	github.com/go-composites/array v0.0.0-20260912233747-b75b05b49410
+	github.com/go-composites/boolean v0.0.0-20260910233701-b3b54cffbdf3
+	github.com/go-composites/error v0.0.0-20260910233857-13fdb6fa03c6
 	github.com/go-composites/result v0.0.0-20260904101956-f4b09f308e35
 	github.com/onsi/ginkgo/v2 v2.32.2
 	github.com/onsi/gomega v1.43.0
