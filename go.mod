@@ -3,23 +3,23 @@ module github.com/go-composites/dictionary
 go 1.26.4
 
 require (
-	github.com/go-composites/array v0.0.0-20260915000710-d4141b5e607e
-	github.com/go-composites/boolean v0.0.0-20260915000852-2cecd4c79165
-	github.com/go-composites/error v0.0.0-20260910233857-13fdb6fa03c6
-	github.com/go-composites/result v0.0.0-20260912234301-de30d2f90af6
-	github.com/onsi/ginkgo/v2 v2.32.2
-	github.com/onsi/gomega v1.43.0
+	github.com/go-composites/array v0.0.0-20260922235702-4fc43dd1da2c
+	github.com/go-composites/boolean v0.0.0-20260920234636-75c245db1925
+	github.com/go-composites/error v0.0.0-20260918235114-2990a9d33571
+	github.com/go-composites/result v0.0.0-20260920235032-53e0a08ef62b
+	github.com/onsi/ginkgo/v2 v2.33.0
+	github.com/onsi/gomega v1.43.1
 )
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
 	github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23 // indirect
-	github.com/go-composites/string v0.0.0-20260906100208-40aa83a1476d // indirect
+	github.com/go-composites/string v0.0.0-20260915235638-3570a3a53692 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/google/pprof v0.0.0-20260402051712-545e8a4df936 // indirect
-	go.yaml.in/yaml/v3 v3.0.4 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/mod v0.36.0 // indirect
 	golang.org/x/net v0.56.0 // indirect
 	golang.org/x/sync v0.21.0 // indirect
