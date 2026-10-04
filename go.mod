@@ -4,7 +4,7 @@ go 1.26.4
 
 require (
 	github.com/go-composites/array v0.0.0-20260929012314-b34dd2208c46
-	github.com/go-composites/boolean v0.0.0-20261001005819-7829d550cf44
+	github.com/go-composites/boolean v0.0.0-20261003005210-ffe1256e341a
 	github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74
 	github.com/go-composites/result v0.0.0-20260927170344-f2c7344faeef
 	github.com/onsi/ginkgo/v2 v2.33.0
@@ -14,7 +14,7 @@ require (
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
 	github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23 // indirect
-	github.com/go-composites/string v0.0.0-20260929013001-cb2d117dac32 // indirect
+	github.com/go-composites/string v0.0.0-20261001010216-fcf54a81e3db // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
